@@ -12,7 +12,7 @@
 
 ## :heavy_check_mark: Business rules
 
-- [] Não deve ser possivel cadastrar uma conta com cpf já existente.
+- [x] Não deve ser possivel cadastrar uma conta com cpf já existente.
 - [] Não deve ser possivel fazer depósito em uma conta não existente.
 - [] Não deve ser possivel buscar extrato em uma conta não existente .
 - [] Não deve ser possivel fazer um saque em uma conta não existente .

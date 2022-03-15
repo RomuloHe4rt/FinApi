@@ -1,4 +1,4 @@
-## :clipboard: Requirements
+## :clipboard: Requisitos
 
 - [x] Deve ser possivel Criar uma conta.
 - [x] Deve ser possivel buscar o extrato bancário do Cliente.
@@ -10,7 +10,7 @@
 - [x] Deve ser possivel deletar uma conta.
 - [x] Deve ser possivel obter o saldo da conta.
 
-## :heavy_check_mark: Business rules
+## :heavy_check_mark: Regras de negócios
 
 - [x] Não deve ser possivel cadastrar uma conta com cpf já existente.
 - [x] Não deve ser possivel fazer depósito em uma conta não existente.

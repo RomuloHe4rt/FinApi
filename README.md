@@ -1,6 +1,6 @@
 ## :clipboard: Requirements
 
-- [] Deve ser possivel Criar uma conta.
+- [x] Deve ser possivel Criar uma conta.
 - [] Deve ser possivel buscar o extrato bancário do Cliente.
 - [] Deve ser possivel Realizar um depósito.
 - [] Deve ser possivel realizar um saque.
